@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Player1
+  - Player2
+  - Dagger
+  - Katana
+  - Kusarigama
+  - WeaponSelect
+  - Sword
+  - Scythe
+  - Greatsword
+  - Knuckle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - chain
+  - Player
+  - Weapon
+  - Boundary
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 3833295783
+    locked: 0
+  - name: Weapon
+    uniqueID: 2683172083
+    locked: 0
